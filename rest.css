@@ -1,0 +1,48 @@
+body{padding: 0px;
+    margin: 0px;
+}
+.image{
+    position: relative;
+}
+.welcome{
+
+    color: gold;
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    width: 100%;
+    display: contents;
+}
+.welcome h1{
+    color: rgb(25, 9, 206);
+    font-size: 3rem;
+}
+.ohk{
+    margin-top: 30px;
+}
+.welcome h3{
+    font-size: 1rem;
+}
+.op
+{margin-top: 20%;
+    margin-left: 9%; 
+}
+.yea{margin-left: 25%;
+    
+    
+}
+.card{
+    margin-left: 20px;
+}
+.good{
+    width: 30vw;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+}
+.wow{
+    margin-left: 40px;
+}
+.ooo{
+    margin-left: 250px;
+}
